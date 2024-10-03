@@ -4,6 +4,16 @@ body {
     
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #33afe491;
+    color: white;
+}
+
 #task-list {
     margin-top: 20px;
 }
@@ -12,4 +22,9 @@ body {
     margin: 10px 0;
     padding: 10px;
     border: 1px solid #ddd;
+}
+
+footer {
+    background-color: red;
+    color: white;
 }
