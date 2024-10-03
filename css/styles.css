@@ -1,7 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
     
+}
+input {
+    height: 25px;
+}
+button {
+    border-radius: 25px;
+    width: 100px;
+    background-color: aqua;
+    border: none;
+    height: 30px;
+
 }
 
 #task-list {
